@@ -1,0 +1,6801 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<petrolStations date="2021-02-15">
+  <petrolStation name="Wintheiser Inc" address="16718 Amoth Terrace" city="Ar Ru’ays">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.12</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.08</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="3467 1st Drive" city="Vila Flor">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.53</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.08</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.89</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.06</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="4288 Cardinal Drive" city="Weda">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.42</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="450 Heffernan Court" city="Riachão do Jacuípe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="05807 Grayhawk Drive" city="Calango">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="6 Bobwhite Junction" city="Montpellier">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.06</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.03</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="47471 Sunnyside Alley" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="6 Eliot Park" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.48</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="1587 School Circle" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.93</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="79 Muir Parkway" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="4461 Parkside Place" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.06</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="67 4th Parkway" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.16</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.04</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="20 Lighthouse Bay Alley" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.96</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="004 Magdeline Alley" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.14</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="514 Dapin Parkway" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="2285 Hollow Ridge Court" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.08</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.90</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="05 Everett Trail" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="17935 Macpherson Trail" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.65</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.87</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="268 Boyd Court" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.09</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.79</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="97871 Graceland Drive" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.10</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="1 Darwin Pass" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.15</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser Inc" address="0 Manitowish Circle" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="4788 Shopko Crossing" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.11</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="41 Lyons Center" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.11</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="436 Bayside Avenue" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.79</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.35</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="1 Dunning Center" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.42</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.15</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="7 Hollow Ridge Road" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.11</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="33 Dawn Terrace" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.29</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="90 Bayside Place" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.10</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.10</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="210 Chinook Trail" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.87</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.35</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conn Group" address="712 Briar Crest Court" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.94</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="211 Artisan Place" city="Zhichanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.16</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.31</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="11 Melrose Junction" city="Ar Ru’ays">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.01</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="4 Hudson Hill" city="Vila Flor">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.09</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="57432 Logan Junction" city="Weda">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.27</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.09</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.07</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="1 Londonderry Park" city="Riachão do Jacuípe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.34</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="8 Toban Way" city="Calango">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.15</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="85014 Sachs Road" city="Montpellier">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.29</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.89</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.10</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="389 Onsgard Circle" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="065 Carberry Lane" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.31</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.13</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="3467 1st Drive" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="79 Blackbird Terrace" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="23178 American Pass" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.12</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="041 Sutherland Junction" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.87</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="379 Carey Parkway" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.31</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.08</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.05</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="97871 Graceland Drive" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.26</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.24</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="5 Boyd Lane" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.29</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="982 Morningstar Circle" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.96</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="2 Buell Road" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.16</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.09</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="1 Dunning Center" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.35</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="2854 Westend Pass" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.42</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="94 Thackeray Point" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.28</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.97</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="16718 Amoth Terrace" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.27</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.82</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wintheiser and Sons" address="712 Briar Crest Court" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.01</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="673 Boyd Pass" city="Porto Salvo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.82</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="8 Elmside Place" city="Vila Nova de Santo André">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.34</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.27</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="32136 Lakewood Gardens Court" city="Gontar">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.04</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.21</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="01 Anniversary Street" city="Malapaubhara">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.88</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.35</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="1 Fieldstone Circle" city="Radojevo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.40</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.97</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="35 Stephen Trail" city="Louguan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.24</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.06</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.01</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="0869 Maple Wood Center" city="Markivka">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="62 Menomonie Park" city="Cimaragas">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.52</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="389 Onsgard Circle" city="Qiankeng">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.78</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="2 Oneill Crossing" city="Zhichanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="379 Carey Parkway" city="Ar Ru’ays">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="065 Carberry Lane" city="Vila Flor">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.79</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.10</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="43103 Mccormick Drive" city="Weda">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.49</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.40</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="01 Anniversary Street" city="Riachão do Jacuípe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.93</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="896 Scofield Avenue" city="Calango">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.25</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.87</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.03</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="653 Jenifer Drive" city="Montpellier">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.08</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="6847 Bay Junction" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="18968 Atwood Way" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="839 Stuart Parkway" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.50</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.14</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="8 Westridge Road" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.27</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.88</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.24</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="09864 Vermont Pass" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.49</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.12</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="6 Mandrake Terrace" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="17325 Bellgrove Junction" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="4788 Shopko Crossing" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="3 Heffernan Trail" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.30</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="4461 Parkside Place" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="10181 Laurel Street" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.30</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="49 Schlimgen Circle" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="098 Sundown Circle" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.30</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="30038 Memorial Street" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.91</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="09864 Vermont Pass" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.87</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Conroy-Wisoky" address="0 Manitowish Circle" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.96</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.30</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="63214 Tennessee Pass" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.07</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="61 Schiller Hill" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.35</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="92958 Dawn Road" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.48</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.21</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="48 Green Pass" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.52</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.01</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.24</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="90 Bayside Place" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.11</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.25</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.06</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="0 Manley Court" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.26</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.03</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="2854 Westend Pass" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.91</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="41 Longview Center" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.38</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="67637 Butterfield Trail" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.82</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.08</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Lind Group" address="3435 West Way" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.17</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="503 Cody Circle" city="Qiankeng">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="9972 Ramsey Park" city="Zhichanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>0.99</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="484 Superior Terrace" city="Ar Ru’ays">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.25</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="94 Thackeray Point" city="Vila Flor">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.50</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.15</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="6780 Schurz Circle" city="Weda">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.78</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="43336 Prairieview Park" city="Riachão do Jacuípe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.12</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.24</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="0 Armistice Street" city="Calango">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.17</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.31</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="457 Cardinal Pass" city="Montpellier">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.10</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.01</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="1 Dunning Center" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.09</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.90</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.35</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="381 Granby Circle" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.78</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="1 Fieldstone Circle" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.91</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.01</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="9 Roxbury Place" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.87</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.05</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="839 Stuart Parkway" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.31</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="67 4th Parkway" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.60</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.48</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.40</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="20 Lighthouse Bay Alley" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.38</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.06</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="5 Del Sol Point" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.29</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.12</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="7 Prentice Avenue" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="7 Larry Parkway" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.88</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="3 Valley Edge Place" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.01</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.28</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="17935 Macpherson Trail" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.10</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.10</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="22238 Mayer Road" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.49</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="6 Eggendart Place" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="5 Boyd Lane" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.91</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Simonis Inc" address="4 Little Fleur Plaza" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.26</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.83</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.08</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="97 Pine View Place" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.04</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="041 Sutherland Junction" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.38</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.95</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.21</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="67637 Butterfield Trail" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.01</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="68 4th Junction" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="09260 Pennsylvania Parkway" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.88</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="4788 Shopko Crossing" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.96</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="06560 Dakota Road" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.95</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="839 Stuart Parkway" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.08</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="754 Mallard Court" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.35</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.90</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.21</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="90 Golf Terrace" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.15</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.32</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="087 Twin Pines Lane" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.41</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.30</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="4387 Duke Avenue" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.26</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="849 Express Plaza" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Sporer-Harvey" address="652 Bunting Plaza" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="01 Anniversary Street" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.27</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="6847 Bay Junction" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.25</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.09</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="101 Katie Junction" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.08</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="896 Scofield Avenue" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.95</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="30038 Memorial Street" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.50</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="6 Mandrake Terrace" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.29</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.97</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.01</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="8 Corry Junction" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="23178 American Pass" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.65</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="06560 Dakota Road" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.28</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.04</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.06</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="839 Stuart Parkway" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.14</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="67637 Butterfield Trail" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.31</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="045 Anthes Pass" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.31</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.31</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.24</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="69 Oxford Point" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="389 Onsgard Circle" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.15</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.96</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.31</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="849 Express Plaza" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.94</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Ebert and Sons" address="21 Golf View Plaza" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.25</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.28</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.97</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="32136 Lakewood Gardens Court" city="Mérignac">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="5 Hauk Circle" city="Sidaurip">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="51934 Springs Road" city="Santa Luzia">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.30</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="0167 Londonderry Road" city="Tojal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.85</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.14</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="46 Express Trail" city="Fuyo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.40</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.01</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>0.99</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="67637 Butterfield Trail" city="Porto Salvo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.08</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="2 Oneill Crossing" city="Vila Nova de Santo André">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.60</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.85</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="67637 Butterfield Trail" city="Gontar">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="6847 Bay Junction" city="Malapaubhara">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.48</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.40</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.90</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="4750 Anzinger Center" city="Radojevo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="85 Raven Street" city="Louguan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.16</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="8078 Chinook Lane" city="Markivka">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.38</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.90</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.06</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="627 Badeau Lane" city="Cimaragas">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.29</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="1 Dunning Center" city="Qiankeng">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.25</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.15</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="2 Oneill Crossing" city="Zhichanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="5 Boyd Lane" city="Ar Ru’ays">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.26</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.28</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="4 Hudson Hill" city="Vila Flor">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.16</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="60940 Kedzie Place" city="Weda">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.14</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="6590 Grim Way" city="Riachão do Jacuípe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.34</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.83</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="62697 Little Fleur Park" city="Calango">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.08</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="99 Maryland Terrace" city="Montpellier">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.15</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="01 Anniversary Street" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.96</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="2743 Reinke Street" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.49</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.94</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="30 Bluestem Junction" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.09</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.25</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="9 Roxbury Place" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="30007 Crownhardt Point" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.31</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.13</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.03</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="6 Mandrake Terrace" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.82</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="2289 Eastlawn Crossing" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.83</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.32</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="43103 Mccormick Drive" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="1937 Sheridan Drive" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="68013 Golf View Plaza" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="1 Dunning Center" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="18 Northridge Avenue" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.53</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.13</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="529 Elgar Place" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.51</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.93</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="42 Crownhardt Place" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.41</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.06</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="11 Melrose Junction" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.11</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.90</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Brown-Lind" address="3 Lotheville Road" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="919 Mcbride Trail" city="Porto Salvo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.50</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="84 Southridge Circle" city="Vila Nova de Santo André">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.79</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.32</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="2 Truax Way" city="Gontar">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.91</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="43103 Mccormick Drive" city="Malapaubhara">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.85</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="11480 Forest Dale Court" city="Radojevo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="30007 Crownhardt Point" city="Louguan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.38</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.05</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.05</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="369 Tennyson Street" city="Markivka">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.16</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.09</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="579 Southridge Plaza" city="Cimaragas">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.34</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="3 Valley Edge Place" city="Qiankeng">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.40</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.65</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.97</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="2 Oneill Crossing" city="Zhichanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="32136 Lakewood Gardens Court" city="Ar Ru’ays">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.29</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="21696 Melby Park" city="Vila Flor">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="526 Texas Trail" city="Weda">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.15</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.01</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="6 Lake View Crossing" city="Riachão do Jacuípe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="7 Mccormick Hill" city="Calango">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.83</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="26870 Nevada Point" city="Montpellier">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.51</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="49316 Pine View Junction" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.01</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="85 Raven Street" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.09</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="96 Heffernan Court" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.97</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.06</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="572 Lake View Hill" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.16</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.85</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="03417 Myrtle Plaza" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.95</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="719 Schmedeman Place" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.41</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="42000 Badeau Park" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.50</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.79</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="23178 American Pass" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.12</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="06560 Dakota Road" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.04</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="2 Ryan Parkway" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.08</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.03</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="97 Pine View Place" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.41</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.06</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.28</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="17935 Macpherson Trail" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="57674 Pond Junction" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.27</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.95</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="94 Thackeray Point" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.89</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.06</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="1 Fisk Circle" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.90</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.35</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Maggio Inc" address="63639 Ramsey Park" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.79</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.32</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Dare-Greenfelder" address="01 Nelson Drive" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.60</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.38</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.04</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Dare-Greenfelder" address="7 Larry Parkway" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Dare-Greenfelder" address="5 Hauk Circle" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.94</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Dare-Greenfelder" address="3321 Merrick Center" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.50</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.82</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.14</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Dare-Greenfelder" address="098 Sundown Circle" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.51</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.42</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.95</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.28</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Dare-Greenfelder" address="47471 Sunnyside Alley" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.53</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Dare-Greenfelder" address="6033 Annamark Circle" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Dare-Greenfelder" address="2962 Eagle Crest Court" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.60</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.79</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="9943 Columbus Court" city="Mérignac">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.28</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="3467 1st Drive" city="Sidaurip">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="2285 Hollow Ridge Court" city="Santa Luzia">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="17325 Bellgrove Junction" city="Tojal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.65</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.13</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="02 International Street" city="Fuyo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.25</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="739 Anderson Point" city="Porto Salvo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.95</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="5 Thompson Place" city="Vila Nova de Santo André">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.87</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="597 Sycamore Drive" city="Gontar">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.50</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.91</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="1913 Union Alley" city="Malapaubhara">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.46</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.24</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="66267 Myrtle Street" city="Radojevo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.79</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="01392 Killdeer Crossing" city="Louguan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.39</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="06560 Dakota Road" city="Markivka">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="2 Bunker Hill Point" city="Cimaragas">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.09</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.87</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="6847 Bay Junction" city="Qiankeng">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.34</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.85</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="484 Superior Terrace" city="Zhichanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.25</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="917 Cordelia Hill" city="Ar Ru’ays">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.65</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.01</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.04</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="11480 Forest Dale Court" city="Vila Flor">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.98</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.09</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.10</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.07</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="0 Manley Court" city="Weda">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.93</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="0541 Maple Wood Avenue" city="Riachão do Jacuípe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.04</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="1 1st Trail" city="Calango">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.42</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.38</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.29</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="457 Cardinal Pass" city="Montpellier">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="30 Anzinger Terrace" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.10</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="3 Valley Edge Place" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.09</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.01</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="8 Corry Junction" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.05</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="74562 School Terrace" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.17</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="19905 Bluestem Park" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.83</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="80053 Lindbergh Plaza" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.21</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="1937 Sheridan Drive" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.14</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.08</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.14</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="56 Heffernan Pass" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.15</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.99</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.10</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="579 Southridge Plaza" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.15</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.22</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="2 Ryan Parkway" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.11</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.06</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="67637 Butterfield Trail" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.84</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.08</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.09</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.08</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="77045 Debra Point" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.10</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.32</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="1 Dunning Center" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.42</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.06</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.00</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="42 Crownhardt Place" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.10</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.14</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="0869 Maple Wood Center" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.30</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Wehner and Sons" address="3 Drewry Alley" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.25</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.97</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="0 Armistice Street" city="Calango">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.24</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.08</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.09</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="034 Amoth Alley" city="Montpellier">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="6 Bultman Lane" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.13</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="136 Drewry Circle" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.24</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.45</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.90</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.33</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="8217 Miller Terrace" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.11</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="79 Muir Parkway" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.69</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.61</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.34</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="4461 Parkside Place" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.83</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.86</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="2 Goodland Crossing" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.09</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="41 Ilene Plaza" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.24</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="0 Weeping Birch Point" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.89</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.23</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="61 Jenna Junction" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="326 Welch Street" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.71</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.96</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.24</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="1 Dunning Center" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.26</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="51 International Plaza" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.93</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="33 Dawn Terrace" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.85</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.17</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="47471 Sunnyside Alley" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.65</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.00</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.15</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="6033 Annamark Circle" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.19</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.07</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Hintz Group" address="63639 Ramsey Park" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.12</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.27</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.98</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.19</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="90 Bayside Place" city="Kuanghe">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.92</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.30</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="95753 Goodland Crossing" city="Lubenec">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.79</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.41</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.03</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="80 Graedel Point" city="Taguisa">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.65</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.48</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="206 Northport Parkway" city="Huangtan">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.65</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.12</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.01</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="67637 Butterfield Trail" city="Boyle">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.99</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="1 Mayfield Lane" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.85</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.04</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.93</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="41 Ilene Plaza" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.18</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="338 Fallview Terrace" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.47</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.83</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.21</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="06560 Dakota Road" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.76</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.24</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.90</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="326 Welch Street" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.36</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.37</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.96</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.20</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="169 Clemons Place" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.82</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.33</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="17935 Macpherson Trail" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.88</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.13</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.07</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="4433 Talmadge Alley" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.02</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="369 Quincy Alley" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.66</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.96</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.01</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="62697 Little Fleur Park" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.78</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.00</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.35</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.08</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.13</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Rosenbaum-Mante" address="712 Briar Crest Court" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.97</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.50</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.93</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.23</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.85</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.25</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="21696 Melby Park" city="Chernivtsi">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.07</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.63</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.43</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.91</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="101 Katie Junction" city="Stříbro">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.64</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.87</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.73</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.20</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.94</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.26</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="66183 Crownhardt Crossing" city="Capinzal">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.75</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.25</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.94</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.22</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.88</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.12</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="2 Chive Place" city="Novaya Usman’">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.44</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.80</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.16</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="4461 Parkside Place" city="Valence">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.72</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.05</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.21</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.11</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.27</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="754 Mallard Court" city="Artsvanist">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.68</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.86</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.35</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.04</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.02</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="42 Trailsway Crossing" city="Limbo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.62</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.70</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.18</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>1.06</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.11</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="13 Kinsman Drive" city="Jose Maria Morelos">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.67</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.25</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.80</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.32</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.35</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="369 Quincy Alley" city="Olho Marinho">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.74</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.52</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.77</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>1.92</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.84</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.30</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="484 Superior Terrace" city="Vol’nyy Aul">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.81</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>1.91</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>2.02</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.06</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.91</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.28</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+  <petrolStation name="Swaniawski Inc" address="652 Bunting Plaza" city="Sypniewo">
+    <fuels>
+      <fuel type="Petrol">
+        <price>1.89</price>
+      </fuel>
+      <fuel type="PremiumPetrol">
+        <price>2.03</price>
+      </fuel>
+      <fuel type="Diesel">
+        <price>1.95</price>
+      </fuel>
+      <fuel type="PremiumDiesel">
+        <price>2.01</price>
+      </fuel>
+      <fuel type="LPG">
+        <price>0.81</price>
+      </fuel>
+      <fuel type="CNG">
+        <price>1.25</price>
+      </fuel>
+    </fuels>
+  </petrolStation>
+</petrolStations>
