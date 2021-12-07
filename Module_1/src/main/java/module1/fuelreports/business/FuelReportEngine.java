@@ -1,31 +1,34 @@
 package module1.fuelreports.business;
 
 import com.beust.jcommander.JCommander;
+import module1.fuelreports.business.commands.ConfigCommandHandler;
 import module1.fuelreports.business.services.DatabaseConnectionService;
 import module1.fuelreports.business.services.DatabaseManagerService;
 import module1.fuelreports.business.services.DeserializationService;
 import module1.fuelreports.business.services.SFTPDownloaderService;
-import module1.fuelreports.cli.viewController.ReportViewController;
+import module1.fuelreports.business.services.FuelReportService;
 import module1.fuelreports.data.entities.PetrolStation;
 
 import javax.xml.bind.JAXBException;
 import java.io.File;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 
 public class FuelReportEngine {
 
-    private DeserializationService deserializationService;
-    private SFTPDownloaderService sftpDownloaderService;
-    private DatabaseManagerService databaseManagerService;
-    private ReportViewController reportViewController;
+    private final DeserializationService deserializationService;
+    private final SFTPDownloaderService sftpDownloaderService;
+    private final DatabaseManagerService databaseManagerService;
+    private final FuelReportService reportViewController;
+    private final String[] args;
 
-    private String[] args;
+    private final String CONFIG = "config";
+    private final String PROCESS = "process";
+    private final String REPORT = "report";
 
     public FuelReportEngine(DeserializationService deserializationService, SFTPDownloaderService sftpDownloaderService
-            , DatabaseManagerService databaseManagerService, String[] args, ReportViewController reportViewController) {
+            , DatabaseManagerService databaseManagerService, FuelReportService reportViewController, String[] args) {
         this.deserializationService = deserializationService;
         this.sftpDownloaderService = sftpDownloaderService;
         this.databaseManagerService = databaseManagerService;
@@ -33,24 +36,24 @@ public class FuelReportEngine {
         this.args = args;
     }
 
-    public void start(String[] args) throws JAXBException {
+    public void start() throws JAXBException {
         switch (args[0]) {
-            case "config":
+            case CONFIG:
                 databaseManagerService.createDatabase();
                 databaseManagerService.createTables();
                 config();
                 break;
-            case "process":
+            case PROCESS:
                 sftpDownloaderService.downloadData();
                 deserializationService.parseXml();
                 databaseManagerService.seedData((ArrayList<PetrolStation>) deserializationService.getPetrolStationList());
                 break;
-            case "report":
+            case REPORT:
                 reportViewController.viewFuelReport(args);
                 break;
         }
-//        deserializationService.parseXml();
     }
+
 
     private void config() {
         ConfigCommandHandler configCommandHandler = new ConfigCommandHandler();
@@ -70,8 +73,9 @@ public class FuelReportEngine {
         DatabaseConnectionService dbs = new DatabaseConnectionService();
 
         String query = "INSERT INTO `config`(config_type, info) VALUES ('path', '" + configCommandHandler.getPath() + "');";
+//        a correct dir: config --data-dir src/main/resources/data/
         try {
-            dbs.connectMain();
+            dbs.connectMainUrl();
             dbs.getStmt().executeUpdate(query);
         } catch (SQLException e) {
             e.printStackTrace();

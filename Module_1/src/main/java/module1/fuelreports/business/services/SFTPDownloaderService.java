@@ -2,10 +2,8 @@ package module1.fuelreports.business.services;
 
 import com.jcraft.jsch.*;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.sql.*;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.Properties;
 import java.util.Vector;
 import java.util.logging.Level;
@@ -19,13 +17,13 @@ public class SFTPDownloaderService {
     private final String USERNAME = "sftpuser";
     private final String PASSWORD = "hyperpass";
     private final String REMOTE_DIRECTORY = "/xml-data/";
-    private String DATA_FOLDER_PATH;
     private final int CONNECT_TIMEOUT = 5000;
     private final String STRICT_HOST_KEY_CHECKING = "StrictHostKeyChecking";
+    private String DATA_FOLDER_PATH;
 
     public void downloadData() {
+//        DATA_FOLDER_PATH = url;
         DATA_FOLDER_PATH = getPath();
-
         JSch jsch = new JSch();
         Session session = null;
 
@@ -47,7 +45,7 @@ public class SFTPDownloaderService {
             int countOfDownloadedXmlFiles = 0;
 
             //downloading the data into the resources/data directory where later they will be parsed
-            for ( int i = 0; i < fileList.size()/135; i++ ) {
+            for ( int i = 0; i < fileList.size()/150; i++ ) {
                 ChannelSftp.LsEntry lsEntry = (ChannelSftp.LsEntry) fileList.get(i);
                 if (lsEntry.getFilename().contains(".xml")) {
                     channelSftp.get(REMOTE_DIRECTORY + lsEntry.getFilename(), DATA_FOLDER_PATH);
@@ -60,14 +58,14 @@ public class SFTPDownloaderService {
             channelSftp.disconnect();
             session.disconnect();
         } catch (JSchException | SftpException e) {
-            System.err.println(e.getMessage());
+            LOGGER.severe(e.getMessage());
         }
     }
 
     private String getPath() {
         DatabaseConnectionService dbs = new DatabaseConnectionService();
 
-        dbs.connectMain();
+        dbs.connectMainUrl();
         String query = "SELECT `info` FROM config";
         String path = "";
         try {

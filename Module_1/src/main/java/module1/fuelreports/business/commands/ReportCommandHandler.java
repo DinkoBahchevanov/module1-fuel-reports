@@ -1,4 +1,4 @@
-package module1.fuelreports.business;
+package module1.fuelreports.business.commands;
 
 import com.beust.jcommander.Parameter;
 

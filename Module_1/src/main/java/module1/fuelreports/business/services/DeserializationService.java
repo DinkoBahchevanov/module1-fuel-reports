@@ -16,14 +16,16 @@ import java.nio.file.Paths;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
+import java.util.logging.Logger;
 
 public class DeserializationService {
 
+    private static final Logger LOGGER = Logger.getLogger(DeserializationService.class.getSimpleName());
+
     private final ModelMapper modelMapper;
     private final XmlParserService xmlParserService;
-    private String DATA_FOLDER_PATH;
+    private String DATA_FOLDER_PATH = "";
 
     private List<PetrolStation> petrolStationList;
 
@@ -34,11 +36,14 @@ public class DeserializationService {
     }
 
     public void parseXml() throws JAXBException {
-        DATA_FOLDER_PATH = getPath();
         String[] pathNames;
+        DATA_FOLDER_PATH = getPath();
+        if (DATA_FOLDER_PATH.charAt(0) == '/') {
+            DATA_FOLDER_PATH = DATA_FOLDER_PATH.substring(1);
+        }
         File f = new File(DATA_FOLDER_PATH);
         pathNames = f.list();
-        System.out.println(Arrays.toString(f.list()));
+
         ArrayList<PetrolStationRootModel> petrolStationRootModelList = new ArrayList<>();
 
         for ( int i = 0; i < pathNames.length; i++ ) {
@@ -50,8 +55,9 @@ public class DeserializationService {
                 content = content.replaceAll("\\$", "");
                 Files.write(path, content.getBytes(charset));
             } catch (IOException e) {
-                e.printStackTrace();
+                LOGGER.severe(e.getMessage());
             }
+
 
             PetrolStationRootModel petrolStationRootModel = this.xmlParserService.parseXml(PetrolStationRootModel.class, DATA_FOLDER_PATH + pathNames[i]);
             petrolStationRootModelList.add(petrolStationRootModel);
@@ -75,7 +81,7 @@ public class DeserializationService {
     private String getPath() {
         DatabaseConnectionService dbs = new DatabaseConnectionService();
 
-        dbs.connectMain();
+        dbs.connectMainUrl();
         String query = "SELECT `info` FROM config";
         String path = "";
         try {
@@ -85,7 +91,7 @@ public class DeserializationService {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-        return path;
+        return "/" + path;
     }
 
     public List<PetrolStation> getPetrolStationList() {

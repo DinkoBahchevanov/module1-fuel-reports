@@ -4,8 +4,11 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.logging.Logger;
 
 public class DatabaseConnectionService {
+
+    private static final Logger LOGGER = Logger.getLogger(DatabaseManagerService.class.getSimpleName());
 
     private Connection conn;
     private Statement stmt;
@@ -15,21 +18,21 @@ public class DatabaseConnectionService {
     private static final String USER = "root";
     private static final String PASS = "12345";
 
-    public void connect() {
+    public void connectStartingUrl() {
         try {
             conn = DriverManager.getConnection(DB_START_URL, USER, PASS);
             stmt = conn.createStatement();
         } catch (SQLException e) {
-            e.printStackTrace();
+            LOGGER.severe(e.getMessage());
         }
     }
 
-    public void connectMain() {
+    public void connectMainUrl() {
         try {
             conn = DriverManager.getConnection(DB_MAIN_URL, USER, PASS);
             stmt = conn.createStatement();
         } catch (SQLException e) {
-            e.printStackTrace();
+           LOGGER.severe(e.getMessage());
         }
     }
 
